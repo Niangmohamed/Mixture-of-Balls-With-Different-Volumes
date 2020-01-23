@@ -1,2 +1,2 @@
-# Unsupervised-Learning-Project
-Mixture of Balls With Different Volumes
+# Unsupervised Learning Project
+Mixture of Balls With Different Volumes.
